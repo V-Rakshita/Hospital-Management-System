@@ -1,8 +1,8 @@
 # Hospital-Management-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212224100049
+# Name: V RAKSHITA
+# Date: 16.05.2026
 
 
 # AIM:
@@ -24,6 +24,10 @@ To develop the Hospital Management System using Star UML.
 UML DIAGRAMS
 
 # USE CASE DIAGRAM
+
+<img width="987" height="942" alt="image" src="https://github.com/user-attachments/assets/8402b5ad-958d-4974-8cf5-59b3603ad4cd" />
+
+
 
 A use case diagram is a graphical depiction of a user's possible interactions with a system. The use cases are represented by either circles or ellipses. The actors are often shown as stick figures.
 
@@ -47,6 +51,9 @@ Specifying the context and requirements of a system
 
 
 # CLASS DIAGRAM
+
+<img width="876" height="633" alt="image" src="https://github.com/user-attachments/assets/602e729c-1d9e-49f9-86ba-0ebfad160fe3" />
+
 
 The Unified Modeling Language (UML) can help you model systems in various ways. One of the more popular types in UML is the class diagram. Popular
 
@@ -88,6 +95,9 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 # ACTIVITY DIAGRAM:
 
+<img width="537" height="863" alt="image" src="https://github.com/user-attachments/assets/c8289b81-e207-4a2b-becf-34701a794c60" />
+
+
 The Unified Modeling Language includes several subsets of diagrams, including structure diagrams, interaction diagrants, and behavior diagrams. Activity diagrams, along with use case and state machine diagrams, are considered behavior diagrams because they describe what must happen in the system being modeled.
 
 Stakeholders have many issues to manage, so it's important to communicate with clarity and brevity. Activity diagrams help people on the business and development sides of an organization come together to understand the same process and behavior.
@@ -103,6 +113,9 @@ Describe the steps performed in a UML use case.
 
 
 # SEQUENCE DIAGRAM
+
+<img width="708" height="682" alt="image" src="https://github.com/user-attachments/assets/10c64087-4e4e-472f-80c7-05b94de3a62d" />
+
 
 A sequence diagram is a type of intera jon diagram because it describes how- and in what order a group of objects works together. These diagrams are used by software developers and business professionals to understand requirements for
 
